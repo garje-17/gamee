@@ -1,0 +1,98 @@
+{
+    "UDISE_Code": "27 25 19 00 201",
+    "School_Name": "NAGU BARNE PRI. SCH. 60/2 BOYS",
+    "State": "Maharashtra",
+    "District": "PUNE",
+    "Block": "PIMPRI",
+    "Rural_Urban": "2-Urban",
+    "Cluster": "KHINVASARA PATIL",
+    "Ward": "BELTIKANAGAR",
+    "Mohalla": "Pincode^411033",
+    "Panchayat": "NA",
+    "City": "Municipality",
+    "Municipality": "Pimpri Chinchwad-MunicipalCorporations",
+    "Assembly_Constituency": "205-Chinchwad",
+    "Parliamentary_Constituency": "Maval",
+    "School_Category": "2 - Primary with Upper Primary",
+    "School_Management": "3-Local body",
+    "School_Type": "1-Boys",
+    "Lowest_and_Highest_Class": "1 - 7",
+    "Pre_Primary": "1-Yes",
+    "Medium_of_Instruction": {
+      "Medium_1": "Marathi",
+      "Medium_2": null,
+      "Medium_3": null,
+      "Medium_4": null
+    },
+    "Visit_of_School": {
+      "Acad_Inspections": "0",
+      "CRC_Coordinator": "0",
+      "Block_Level_Officers": "0",
+      "State_District_Officers": "0"
+    },
+    "Year_of_Establishment": "1991",
+    "Year_of_Recognition": {
+      "Primary": "1991",
+      "Upr_Primary": "1991",
+      "Secondary": "0",
+      "Higher_Secondary": "0"
+    },
+    "Affiliation_Board": {
+      "Secondary": null,
+      "Higher_Secondary": null
+    },
+    "Is_Shift_School": "1-Yes",
+    "Building_Status": "3-Government",
+    "Boundary_Wall": "1-Pucca",
+    "Number_of_Building_Blocks": "1",
+    "Pucca_Building_Blocks": "1",
+    "Is_Special_School_for_CWSN": "2-No",
+    "Availability_of_Ramps": "1-Yes",
+    "Availability_of_Handrails": "1-Yes",
+    "Anganwadi_At_Premises": "2-No",
+    "Anganwadi_Boys": "0",
+    "Anganwadi_Girls": "0",
+    "Anganwadi_Worker": "NA",
+    "Residential_School": "3 - Non-Residential",
+    "Minority_School": "2-No",
+    "Approachable_By_All_Weather_Road": "1-Yes",
+    "Toilets": {
+      "Boys": "6",
+      "Girls": "0",
+      "Total_Excluding_CWSN": "60",
+      "Functional": "6",
+      "CWSN_Friendly": "20",
+      "Urinals": "30"
+    },
+    "Handwash_Near_Toilet": "1-Yes",
+    "Handwash_Facility_for_Meal": "1-Yes",
+    "Total_Class_Rooms": "8",
+    "Class_Room_Condition": {
+      "Good": "8",
+      "Needs_Minor_Repair": "0",
+      "Needs_Major_Repair": "0"
+    },
+    "Other_Rooms": "4",
+    "Library_Availability": "1-Yes",
+    "Separate_Room_for_HM": "1-Yes",
+    "Drinking_Water_Available": "1-Yes",
+    "Drinking_Water_Functional": "1-Yes",
+    "Rain_Water_Harvesting": "1-Yes",
+    "Playground_Available": "1-Yes",
+    "Furniture_Availability": "302",
+    "Electricity_Availability": "1-Yes",
+    "Solar_Panel": "2-No",
+    "Medical_Checkups": "2-No",
+    "Digital_Facilities": {
+      "ICT_Lab": "2-No",
+      "Internet": "1-Yes",
+      "Desktop": "1",
+      "Laptop": "0",
+      "Tablet": "0",
+      "Printer": "2",
+      "Projector": "1",
+      "DTH": "2-No",
+      "DigiBoard": "0"
+    }
+  }
+  
